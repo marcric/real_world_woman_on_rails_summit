@@ -1,9 +1,9 @@
-h1. Esta é uma alternativa do "Mundo Real" ao projeto morena_opensource.
+h1. Esta e uma alternativa do "Mundo Real" ao projeto morena_opensource.
 
 h2. Os motivos
 
-A principal motivação, é que na minha opinião, este tipo de marketing está um pouco fora de contexto neste tipo de evento.
-Alem disso, não acredito que colabore em nada para uma maior participação feminina nestes eventos.
+A principal motivacao, e que na minha opiniao, este tipo de marketing esta um pouco fora de contexto neste tipo de evento.
+Alem disso, nao acredito que colabore em nada para uma maior participacao feminina nestes eventos.
 
 h2. Exemplos
 
@@ -14,9 +14,9 @@ Existem duas imagens que ilustram bem o que eu quero dizer:
 
 Dito isso, espero que as mulheres cujas fotos foram aqui adicionadas entendam isto como uma homenagem, pois foi o que eu pretendi.
 
-Nada contra o projeto original, Eu contribuí com ele em 2008. Mas as coisas tendem a evoluir.
+Nada contra o projeto original, Eu contribui com ele em 2008. Mas as coisas tendem a evoluir.
 
-Hoje tenho uma opinião diferente sobre o CONTEXTO, apenas isso.
+Hoje tenho uma opiniao diferente sobre o CONTEXTO, apenas isso.
 
 Se alguem tiver alguma foto de "Mulheres do Mundo Real" tirada no Rails Summit, pode contribuir.
 
