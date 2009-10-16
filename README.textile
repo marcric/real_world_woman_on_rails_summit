@@ -1,0 +1,43 @@
+h1. Esta é uma alternativa do "Mundo Real" ao projeto morena_opensource.
+
+h2. Os motivos
+
+A principal motivação, é que na minha opinião, este tipo de marketing está um pouco fora de contexto neste tipo de evento.
+Alem disso, não acredito que colabore em nada para uma maior participação feminina nestes eventos.
+
+h2. Exemplos
+
+Existem duas imagens que ilustram bem o que eu quero dizer:
+
+* "Exemplo 1":http://www.flickr.com/photos/danicuki/4014186648/
+* "Exemplo 2":http://www.flickr.com/photos/danicuki/4011462030/
+
+Dito isso, espero que as mulheres cujas fotos foram aqui adicionadas entendam isto como uma homenagem, pois foi o que eu pretendi.
+
+Nada contra o projeto original, Eu contribuí com ele em 2008. Mas as coisas tendem a evoluir.
+
+Hoje tenho uma opinião diferente sobre o CONTEXTO, apenas isso.
+
+Se alguem tiver alguma foto de "Mulheres do Mundo Real" tirada no Rails Summit, pode contribuir.
+
+h1. That is a "Real World" alternative to the morena_opensource project.
+
+h2. The reasons
+
+It is most motivated, because in my opinion, that kind of marketing is a bit out of context in this kind of event.
+Besides that, I didn't believe it helps increasing the female participation in these events.
+
+h2. Examples
+
+There are two images that illustrate well what I'm trying to say:
+
+* "Example 1":http://www.flickr.com/photos/danicuki/4014186648/
+* "Example 2":http://www.flickr.com/photos/danicuki/4011462030/
+
+That said, hope the woman which pictures have been added here take it as a reverence, because that was what I intend to do.
+
+Nothing against the original project, I have contributed to it in 2008. But things tend to evolve.
+
+Today I have a different opinion about the CONTEXT, just that.
+
+If someone have any "Real World Woman" picture taken in Rails Summit, can contribute.
